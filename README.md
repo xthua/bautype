@@ -14,9 +14,9 @@ Run:
       read requirements.txt , check your dependecies or just run: pip install -r requirements.txt
     2.Currently, it only process FASTA format. You can just run like following:
       for K type: python AB_LPSandCPS_typeing.py  -o outdir -m tmpdir -r reference_data/Abaumannii_KL_reference -i fastaFile
-                  python AB_LPSandCPS_typeing.py  -o outdir -m tmpdir -r reference_data/Abaumannii_KL_reference -i indir
+                  python AB_LPSandCPS_typeing.py  -o outdir -m tmpdir -r reference_data/Abaumannii_KL_reference -d indir
       for O type: python AB_LPSandCPS_typeing.py  -o outdir -m tmpdir -r reference_data/Abaumannii_OCL_reference -i fastaFile
-                  python AB_LPSandCPS_typeing.py  -o outdir -m tmpdir -r reference_data/Abaumannii_OCL_reference -i indir
+                  python AB_LPSandCPS_typeing.py  -o outdir -m tmpdir -r reference_data/Abaumannii_OCL_reference -d indir
       
 Output:
 
