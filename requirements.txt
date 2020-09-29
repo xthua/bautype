@@ -1,0 +1,4 @@
+svgwrite
+argparse
+biopython
+svglib
