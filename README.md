@@ -1,6 +1,6 @@
-Author:     liangqian at 20190806
+Author:     Xiaoting Hua at 20190806
 
-Email:      lq4977@tkgeneclub.com
+Email:      XiaotingHua@zju.edu.cn
 
 institute:  Key laboratory of Microbiol technology and Bioinformatics of Zhejiang Province
 
